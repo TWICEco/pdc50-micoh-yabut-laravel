@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pdc50-micoh-yabut'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E7891EFF12624D46B06881B338F7CC8C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C4A44E5193B340FABF4928203807BA93 }}
           package: .
